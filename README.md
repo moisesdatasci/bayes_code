@@ -83,7 +83,7 @@ The advanced game loop combines these two concepts into a powerful cycle:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/moisesdatasci/bayes_code]
     cd your-repository-name
     ```
 
